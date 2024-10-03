@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nneight     
-- 
-- 🌱 I’m currently learning  informatica en la UTEC alojada en Uruguay
+- 👨‍💻 I am currently studying Computer Technology.
+- 🌱 The university where I study is called Universidad Tecnologica (UTEC) and is located in Paysandu, Uruguay.
 
 <!---
 nneight/nneight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
